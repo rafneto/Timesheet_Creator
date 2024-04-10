@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## 📦 Building an Executable
 Take your Timesheet Creator to the next level by building an executable file:
 ```bash
-pyinstaller --noconfirm --onedir --windowed --name "Time Sheet Creator" --icon "C:/Users/Rui Neto/Downloads/icon.ico" --add-data "C:/Users/Rui Neto/AppData/Local/Programs/Python/Python311/Lib/site-packages/customtkinter;customtkinter/"  "C:/Users/Rui Neto/Documents/GitHub/time_sheet_creator/time_sheet_creator.py"
+pyinstaller --noconfirm --onedir --windowed --name "TimeSheetCreator" --icon "path/to/icon.ico" --add-data "path/to/customtkinter;customtkinter/"  "path/to/time_sheet_creator.py"
 ```
 
 ## 🤝 Contributions
