@@ -1,0 +1,7 @@
+customtkinter
+calendar
+datetime
+requests
+argostranslate
+fpdf2
+pathlib
