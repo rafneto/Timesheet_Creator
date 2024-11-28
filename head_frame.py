@@ -1,6 +1,8 @@
-import customtkinter
 import calendar
 import datetime
+
+import customtkinter
+
 import utils
 
 year = 0

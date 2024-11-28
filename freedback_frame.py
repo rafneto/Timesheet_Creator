@@ -1,6 +1,7 @@
-import customtkinter
-from time import sleep
 from threading import Thread
+from time import sleep
+
+import customtkinter
 
 NUM_SEC = 3
 

@@ -1,11 +1,13 @@
-import customtkinter
 import datetime
 import pathlib
-from scrollable_checkbox_frame import ScrollableCheckBoxFrame
-from head_frame import HeadFrame
-from freedback_frame import FeedbackFrame
-from dialog_error import DialogError
+
+import customtkinter
+
 import utils
+from dialog_error import DialogError
+from freedback_frame import FeedbackFrame
+from head_frame import HeadFrame
+from scrollable_checkbox_frame import ScrollableCheckBoxFrame
 
 year = 0
 month = 0

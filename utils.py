@@ -1,9 +1,9 @@
 import calendar
-from fpdf import FPDF
-from fpdf import FontFace
 import pathlib
+
 import argostranslate.package
 import argostranslate.translate
+from fpdf import FPDF, FontFace
 
 DOC_HEADER_FONT_SIZE = 16
 DOC_HEADER_SIZE_ALT = 8

@@ -153,3 +153,4 @@ cython_debug/
 
 *.pdf
 output/
+flake8_before.txt
